@@ -1,0 +1,10 @@
+*{background-color:WhiteSmoke;}
+.abc{
+color:Blue;
+font-size:80px;}
+.xyz{
+display:flex;
+justify-content:space-evenly;
+}
+.def{
+color:Blue;}
